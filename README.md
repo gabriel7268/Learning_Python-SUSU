@@ -9,3 +9,5 @@ Codes of SUSU Python Course
 7. List
 8. Dictionaries
 9. Tuples
+
+P.S: HTML files used during classes, Python Notebooks with the answer of the exercises.
